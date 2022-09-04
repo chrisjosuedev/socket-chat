@@ -1,9 +1,5 @@
-# init-restapi
-Basic Rest API Template
-
-## Documentation
-
-You can review the documentation: https://documenter.getpostman.com/view/21748987/VUxKSUZ5
+# socket-chat
+Socket Chat, Group & Private Messages
 
 ## Available Scripts
 
@@ -15,7 +11,7 @@ Runs the rest api.
 
 ### `npm run dev`
 
-Runs the rest api in the development mode.
+Runs the socket app in the development mode.
 
 ### `npm i`
 Install node modules
